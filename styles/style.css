@@ -151,6 +151,10 @@ body{
         width: auto;
     }
 
+    .apresentacao__imagem{
+        width: 55%;
+    }
+
     .rodape{
         position: relative;
     }
