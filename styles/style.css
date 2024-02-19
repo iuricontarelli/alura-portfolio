@@ -24,12 +24,6 @@ body{
     overflow-x: hidden;
 }
 
-.wrapper{
-    /* display: flex;
-    flex-direction: column;
-    height: 100vh; */
-}
-
 .cabecalho{
     padding: 2% 0% 0% 15%;
 }
