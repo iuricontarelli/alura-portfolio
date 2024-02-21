@@ -1,6 +1,6 @@
 # Portfólio
 
-Este é um projeto de Portfólio desenvolvido utilizando HTML e CSS. Ele permite a criação de um site onde você pode listar e descrever-se sobre você. Conta com duas páginas, a 'Home' e a 'Sobre mim'.
+Este é um projeto de Portfólio desenvolvido utilizando HTML e CSS. Ele permite a criação de um site onde você pode listar e descrever sobre você. Conta com duas páginas, a 'Home' e a 'Sobre mim'.
 
 
 ## Imagem do projeto 'HOME'
