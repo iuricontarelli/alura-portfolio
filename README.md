@@ -10,7 +10,7 @@ Este é um projeto de Portfólio desenvolvido utilizando HTML e CSS. Ele permite
 
 ## Imagem do projeto 'SOBRE MIM'
 
-![Imagem do projeto.](https://github.com/iuricontarelli/alura-portfolio/blob/main/img/wp-about.png)
+![Imagem do projeto.](https://github.com/iuricontarelli/alura-portfolio/blob/main/img/wp-sobre.png)
 
 
 ## Feedback
